@@ -308,6 +308,9 @@ footer .nav ul {
     }
 
     /* Hero Section */
+    .hero h1 {
+        padding: 15px;
+    }
 
     /* About Section */
     .about {
